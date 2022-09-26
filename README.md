@@ -1,3 +1,4 @@
 # AIO_ConfigurationAnalyseTool
-QT Configuration and anaylse tool with uart communication
-Based on windows QT 5.12
+1. QT Configuration and anaylse tool with uart communication.
+
+2. Based on windows QT 5.12.
